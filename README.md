@@ -1,6 +1,4 @@
 # hello-world
 Nothing special, just hello world :)
 
-Hello,
-
-My name is Matthew, or in polish "Mateusz". I like cat's, programming languages and hardware stuff.
+Hello Sugar Labs, thanks for showing how to work with Github. It's good thing that i can learn something new. Some personal message? I like cats :p. Have a nice day, Mateusz
